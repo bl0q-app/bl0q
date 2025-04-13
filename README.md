@@ -1,4 +1,6 @@
-# bl0q - Track Issues, Bugs, and Features
+# ![bl0q Logo](https://ucarecdn.com/47eecb85-bcfd-4600-a678-a5fc0081fdd5/bl0qpre.png)
+
+# **bl0q** - Track Issues, Bugs, and Features
 
 Welcome to the **bl0q** repository! This space is dedicated to discussing, tracking, and improving the platform by reporting bugs, suggesting features, and collaborating with the community.
 
@@ -10,7 +12,7 @@ The **bl0q** repo is where all development and discussions around the platform h
 ---
 
 ### 🐞 Report Bugs
-If you encounter a bug or issue, please [open a new issue](https://github.com/bl0q-org/bl0q/issues/new) and provide as much detail as possible:
+If you encounter a bug or issue, please [open a new issue](https://github.com/bl0q-app/bl0q/issues/new) and provide as much detail as possible:
 - A clear description of the bug
 - Steps to reproduce
 - Screenshots (if applicable)
@@ -35,5 +37,10 @@ Have an idea for a new feature? Open a feature request issue and include:
 
 ### 🔗 Useful Links
 - [Website](https://bl0q.app)
-- [Discussions](https://github.com/bl0q-org/bl0q/discussions)
+- [Discussions](https://github.com/bl0q-app/bl0q/discussions)
 - [Twitter](https://twitter.com/bl0q_app)
+- [Bluesky](https://bsky.app/profile/bl0q.app)
+
+---
+
+Let’s work together to make **bl0q** the best it can be!
